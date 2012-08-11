@@ -8,7 +8,7 @@ Concept
 
 In order to avoid open-source closed-source issues, enjo will use file paths to the Mojo UI elements in the webOS rootfs.
 
-This means enjo will only work on webOS Devices with the Mojo framework installed, but it avoids the problem of publishing closed-source software elements.
+This means enjo will only work on webOS Devices with the Mojo framework installed, but it avoids the problem of publishing closed-source software elements (aka the UI graphics.)
 
 Progress
 ====
