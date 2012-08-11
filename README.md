@@ -1,6 +1,4 @@
-bootplate
-=========
+enjo
+====
 
-Application template for packaged Enyo
-
-Refer to the [Wiki](https://github.com/enyojs/enyo/wiki/Bootplate) for how to get started.
+A port of the Mojo user interface elements to Enyo2. Currently very much a WIP.
